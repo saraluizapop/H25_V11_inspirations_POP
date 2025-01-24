@@ -1,6 +1,8 @@
 # Sara Pop
  ## Mes intérêts
 
+  ![image](f0d43d3a88dc66059e7d3741541ff3)
+
 
   Je suis très artistique. J'adore créer, avec peu importe le média qui m'est présenté. Le dessin, la peinture, l'animation et le 3D sont tous les médias que je préfère.
   J'aime beaucoup beaucoup les animaux, sourtout les félins.  Si jamais je ne file pas, simplement une vidéo de quelconque animal me remontera le moral.
