@@ -1,7 +1,7 @@
 # Sara Pop
  ## Mes intérêts
 
-  ![image](f0d43d3a88dc66059e7d3741541ff3)
+  ![image](f0d43d3a88dc66059e7d3741541ff3d5.jpg)
 
 
   Je suis très artistique. J'adore créer, avec peu importe le média qui m'est présenté. Le dessin, la peinture, l'animation et le 3D sont tous les médias que je préfère.
@@ -11,7 +11,7 @@
   ### Intérêt multimédia
   
   ![image](jin-yi-blackfish-character2.jpg)
-  Le concept art et l'animation sont les domaines qui m'intéressent le plus.
+  Le concept art et l'animation sont les domaines qui m'intéressent le plus. Les oeuvres qui m'inspirent le plus sont les films Spider-Verse et la série Arcane. 
   Artiste:(https://www.artstation.com/artwork/A9e19z)
   
   
