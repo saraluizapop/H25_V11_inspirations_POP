@@ -7,8 +7,12 @@
   Pour moi, il est très important que je me démarque du lot, avec des cheveux teints et des tenues extravagantes et du maquillage coloré.
 
   ### Intérêt multimédia
-  ![image]()
+  
+  ![image](jin-yi-blackfish-character2.jpg)
   Le concept art et l'animation sont les domaines qui m'intéressent le plus.
+  Artiste:(https://www.artstation.com/artwork/A9e19z)
+  
+  
   
 
   
