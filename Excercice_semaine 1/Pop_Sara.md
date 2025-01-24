@@ -7,7 +7,7 @@
   Pour moi, il est très important que je me démarque du lot, avec des cheveux teints et des tenues extravagantes et du maquillage coloré.
 
   ### Intérêt multimédia
-  ![example concept art](/ACC)
+  ![example concept art](Excercice_semaine 1/ACCD Entertainment Design Entry Portfolio 2020 Fall (Accepted)--CHARACTER DESIGN, JIN YI.jfif)
   Le concept art et l'animation sont les domaines qui m'intéressent le plus.
   
 
