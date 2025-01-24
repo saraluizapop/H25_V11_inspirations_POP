@@ -11,7 +11,7 @@
   ### Intérêt multimédia
   
   ![image](jin-yi-blackfish-character2.jpg)
-  Le concept art et l'animation sont les domaines qui m'intéressent le plus. Les oeuvres qui m'inspirent le plus sont les films Spider-Verse et la série Arcane. 
+  Le concept art et l'animation sont les domaines qui m'intéressent le plus. Les oeuvres qui m'inspirent le plus sont les films Spider-Verse et la série Arcane.   
   Artiste:(https://www.artstation.com/artwork/A9e19z)
   
   
