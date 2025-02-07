@@ -8,3 +8,4 @@ En commençant par la cuisine et en passant par la salle à manger, vous travail
 <img src="devant_banquet.jfif" width="800" height="600">
 
 Le dispositif que j'ai choisi s'intitule **Les Plats Signatures**
+![ensemble](ensemble_Les_Plats_signatures)
