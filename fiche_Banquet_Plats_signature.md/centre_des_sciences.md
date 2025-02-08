@@ -8,4 +8,4 @@ En commençant par la cuisine et en passant par la salle à manger, vous travail
 <img src="devant_banquet.jfif" width="800" height="600">
 
 ## **Les Plats Signatures**
-![ensemble](ensemble_Les_Plats_Signatures.png)
+![ensemble](ensemble_Les_Plats_Signatures.png) Par Cité des sciences et des l'industrie en partenariat avec Inrae.
