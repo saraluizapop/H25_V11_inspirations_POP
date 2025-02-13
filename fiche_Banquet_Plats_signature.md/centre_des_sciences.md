@@ -27,7 +27,21 @@ Ce dispositif porte sur l'importance d'avoir son propre plat signature. Ces mets
 Voici un comment intéragir avec les dispositif: https://youtube.com/shorts/S1N97JyBPeM?feature=share 
 https://youtube.com/shorts/qJVBQXrtq_E?feature=share
 
-<img src=" 3_Plateaux.png" align=left>
+
+
+
+
+<img src="3_Plateaux.png" align=left height=300 width=400>
+
+
+
+
+
+
+
+
+
+
 
 
                                   
