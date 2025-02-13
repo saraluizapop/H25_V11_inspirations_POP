@@ -8,4 +8,25 @@ En commençant par la cuisine et en passant par la salle à manger, vous travail
 <img src="devant_banquet.jfif" width="800" height="600">
 
 ## **Les Plats Signatures**
-![ensemble](ensemble_Les_Plats_Signatures.png) Par Cité des sciences et des l'industrie en partenariat avec Inrae.
+![ensemble](ensemble_Les_Plats_Signatures.png)  *Par Cité des sciences et des l'industrie en partenariat avec Inrae.*
+
+<img src="LPS_description.png" align=right>
+
+
+
+
+Ce dispositif porte sur l'importance d'avoir son propre plat signature. Ces mets peuvent êtres des mets plûtot banales, mais lorsqu'un artiste ajoute sa propre touche personelle créative, le met devient associé à eux.
+
+
+
+
+
+
+
+
+Voici un comment intéragir avec les dispositif: https://youtube.com/shorts/S1N97JyBPeM?feature=share 
+https://youtube.com/shorts/qJVBQXrtq_E?feature=share
+                                               
+
+
+
