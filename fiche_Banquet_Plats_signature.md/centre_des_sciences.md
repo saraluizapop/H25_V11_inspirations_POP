@@ -49,7 +49,8 @@ Voici un comment intéragir avec les dispositif:
 
 ### Composantes et techniques ###
  #### Composantes fournis par l'artiste ####
- - Les faux desserts assemblés.
+ 
+-  Les faux desserts assemblés.
     - ![dessert 1](medias/dessert01_Sebastien_Bras.png)
       > Par [Sebastien Bras](https://www.bras.fr/fr/la-cuisine/sebastien-bras)
     - ![dessert 2](medias/dessert02_Mory_Sacko.png)
@@ -57,18 +58,12 @@ Voici un comment intéragir avec les dispositif:
     - ![dessert 3](medias/dessert03_AnneSophie_Pic.png)
      > Par [Anne-Sophie Pic](https://anne-sophie-pic.com/portrait/)
 - Les plaquettes gravés.
-- 
-  -![plaquette Sebastien](medias/plaquette_Sebastien_Bras)
   
-  -![plaquette Mory](medias/plaquette_Mory_Sacko)
+  - ![plaquette Sebastien](medias/plaquette_Sebastien_Bras.png)
   
-  -![plaquette Anne](medias/plaquette_AnneSophie_Pic)
-
-
-
-
-
-
+  - ![plaquette Mory](medias/plaquette_Mory_Sacko.png)
+  
+  - ![plaquette Anne](medias/plaquette_AnneSophie_Pic.png)
 
 
 
