@@ -17,7 +17,7 @@ En commençant par la cuisine et en passant par la salle à manger, vous travail
 
 Ce dispositif interactif porte sur l'importance de l'apparence d'un plat. Ces mets peuvent êtres des mets plûtot banales, mais lorsqu'un artiste ajoute sa propre touche personelle créative, le met devient associé à eux. 
 Le dispositif est composé d'une table blanche, ornée de trois desserts sculpté en acrylique abrité par un couvercle en verre ainsi que trois couvercles en métal qui s'ouvrent. Sur la table, il y a également deux boutons qui permettent de commencer l'expérience interactive. Après avoir appuyé ce bouton,
-il est possible d'ensuite qappuyer sur les prochains boutons, situés en dessous de chaque faux dessert. Sous ces derniers, il y a une plaquette qui donne crédit au chef-cuisinier qui a composé le dessert, ainsi de ce qu'il sagit. Sous les plats metalliques se retrouvent trois images de plats signatures et 
+il est possible d'ensuite d'appuyer sur les prochains boutons, situés en dessous de chaque faux dessert. Sous ces derniers, il y a une plaquette qui donne crédit au chef-cuisinier qui a composé le dessert, ainsi de ce que le psagit. Sous les plats metalliques se retrouvent trois images de plats signatures et 
 
 
 
@@ -34,8 +34,8 @@ https://youtube.com/shorts/qJVBQXrtq_E?feature=share
 
 
 
-<img src="3_Plateaux.png" align=left height=300 width=400>
-
+<img src="3_Plateaux.png" align=left height=300 width=400> <br>
+>
 
 ## Mise en espace ##
 
