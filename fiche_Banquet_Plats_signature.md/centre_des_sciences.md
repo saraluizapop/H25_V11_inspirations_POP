@@ -44,7 +44,16 @@ Voici un comment intéragir avec les dispositif:
 
 ## Mise en espace ##
 
-![vue d'ensemble](
+![vue d'ensemble](medias/vue_ensemble_Alain_Roberge_Presse.png)
+> **Photo par Alain Roberge, la Presse. https://www.lapresse.ca/gourmand/centre-des-sciences/gastronomie-science-et-plaisir/2024-06-30/banquet/interactivite-au-menu.php**
+
+### Composantes et techniques ###
+ #### Composantes fournis par l'artiste ####
+ - Les faux desserts assemblés.
+    - ![dessert 1](medias/dessert01_Sebastien_Bras.png)
+   > Par [Sebastien Bras](https://www.bras.fr/fr/la-cuisine/sebastien-bras)
+    - ![dessert 2](medias/dessert02_Mory_Sacko.png)
+    - ![dessert 3](medias/dessert03_AnneSophie_Pic.png)
 
 
 
