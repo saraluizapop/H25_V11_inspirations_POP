@@ -10,14 +10,14 @@ En commençant par la cuisine et en passant par la salle à manger, vous travail
 ## **Les Plats Signatures**
 ![ensemble](ensemble_Les_Plats_Signatures.png)  *Par Cité des sciences et des l'industrie en partenariat avec Inrae.*
 
-<img src="LPS_description.png"  height=500 align=right>
+![ensemble](LPS_description.png)
 
 
 
 
 Ce dispositif interactif porte sur l'importance de l'apparence d'un plat. Ces mets peuvent êtres des mets plûtot banales, mais lorsqu'un artiste ajoute sa propre touche personelle créative, le met devient associé à eux. 
-Le dispositif est composé d'une table blanche, ornée de trois desserts sculpté en acrylique abrité par un couvercle en verre ainsi que trois couvercles en métal qui s'ouvrent. Sur la table, il y a également deux boutons qui permettent de commencer l'expérience interactive. Après avoir appuyé ce bouton,
-il est possible d'ensuite d'appuyer sur les prochains boutons, situés en dessous de chaque faux dessert. Sous ces derniers, il y a une plaquette qui donne crédit au chef-cuisinier qui a composé le dessert, ainsi de ce que le psagit. Sous les plats metalliques se retrouvent trois images de plats signatures et 
+Le dispositif est composé d'une table blanche, ornée de trois desserts sculpté en acrylique qui sont abrité par un couvercle en verre ainsi que trois autres couvercles en métal qui s'ouvrent du coté opposé de la table . Sur la table, il y a également deux boutons qui permettent de commencer l'expérience interactive. Après avoir appuyé ce bouton,
+il est possible d'ensuite appuyer sur les prochains boutons, situés en dessous de chaque faux dessert. Sous ces derniers, il y a une plaquette qui donne crédit au chef-cuisinier qui a composé le dessert, ainsi que les composantes de la friandise. Sous les plats metalliques se retrouvent trois images de plats signatures et 
 
 
 
@@ -34,11 +34,10 @@ https://youtube.com/shorts/qJVBQXrtq_E?feature=share
 
 
 
-<img src="3_Plateaux.png" align=left height=300 width=400> <br>
->
+
 
 ## Mise en espace ##
-
+![3 plateaux metalliques ](3_Plateaux.png)
 
 
 
