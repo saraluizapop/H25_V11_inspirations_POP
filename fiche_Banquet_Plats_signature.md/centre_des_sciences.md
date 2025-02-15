@@ -76,7 +76,23 @@ Voici un comment intéragir avec les dispositif:
       > Vidéo par Sara Pop
 
 
-  - Les vidéos 
+  - Les vidéos qui sont diffusés sur le petit écran
+
+  - Le contenu pour la plaquette d'explication
+
+
+#### Composantes fournis par l'espace d'exposition (Centre des Sciences) ####
+
+- La table
+- Lieu oû brancher...
+  - Les fils audio (HDMI ou équivalent)
+  - Les fils pour l'écran de diffusion (HDMI ou équivalent)
+  - L'écran
+  - Les panneaux de lumière bleu et orange qui sont autour de la table
+  - Les hauts-parleurs
+    - ![hauts-parleurs](medias/speakers_banquet.png)
+  - Des icônes pour assurer que le dispositif ne soit pas endommagé
+     - ![icone](medias/plaquette_AnneSophie_Pic.png)
  
 
   
