@@ -90,9 +90,9 @@ Voici un comment intéragir avec les dispositif:
   - L'écran
   - Les panneaux de lumière bleu et orange qui sont autour de la table
   - Les hauts-parleurs
-    - ![hauts-parleurs](medias/speakers_banquet.png)
+    -  ![hauts-parleurs](medias/speakers_banquet.png)
   - Des icônes pour assurer que le dispositif ne soit pas endommagé
-     - ![icone](medias/plaquette_AnneSophie_Pic.png)
+     - ![icone](medias/banquet_icone.png)
  
 
   
