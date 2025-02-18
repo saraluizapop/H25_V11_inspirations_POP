@@ -19,9 +19,8 @@ En commençant par la cuisine et en passant par la salle à manger, vous travail
 
 *Par Cité des sciences et des l'industrie en partenariat avec Inrae.* <br>
 
-Ce dispositif interactif porte sur l'importance de l'apparence d'un plat. Ces mets peuvent êtres des mets plûtot banales, mais lorsqu'un artiste ajoute sa propre touche personelle créative, le met devient associé à eux. 
-Le dispositif est composé d'une table noire et blanche, ornée de trois desserts sculpté en acrylique qui sont abrité par une cloche en verre ainsi que trois autres cloches en métal qui s'ouvrent du coté opposé de la table . Sur la table, il y a également deux boutons qui permettent de commencer l'expérience interactive. Ces boutons enclenchent des audios qui expliquent chaque étapes du procéssus des desserts. Sous ces derniers, il y a une plaquette qui donne crédit au chef-cuisinier qui a composé le dessert, ainsi que les composantes de la friandise. Sous les plats metalliques se retrouvent trois images d'oeuvres réalisés par divers artistes ainsi qu'un plat inspiré de ces oeuvres. De plus, il y a un petit écran qui diffuse des vidéos des chefs-cuisiniers qui composent leur oeuvre.
-
+Ce dispositif interactif met en avant l'importance de l'apparence d'un plat. Ces mets peuvent sembler banals, mais lorsqu'un artiste ajoute sa propre touche **personnelle et créative**, ils deviennent uniques et **reconnaissables**.
+L'installation se compose d'une table noire et blanche, ornée de trois desserts acryliques sculptés sous une cloche en verre, ainsi que de trois autres cloches en métal qui s'ouvrent du côté opposé. Deux boutons permettent de lancer l'expérience interactive : en les activant, on déclenche des audios expliquant chaque étape du processus de création des desserts.  Chaque dessert est accompagné d'une plaquette précisant le nom du chef qui l'a conçu ainsi que ses ingrédients. Sous les cloches en métal, on découvre trois images d'œuvres réalisées par différents artistes, ainsi qu’un plat inspiré de ces œuvres. Enfin, il y a un petit écran qui diffuse des vidéos des chefs-cuisiniers composant leur oeuvreen pleine création
 
  ![ensemble](medias/LPS_description.png)
 > **Photo par Sara Pop** <br>
@@ -32,7 +31,7 @@ Le dispositif est composé d'une table noire et blanche, ornée de trois dessert
 
 
 
-L'intéractivité du dispositif en plein action:
+L'intéractivité du dispositif en pleine action:
 1. https://youtube.com/shorts/S1N97JyBPeM?feature=share 
 2. https://youtube.com/shorts/qJVBQXrtq_E?feature=share
    > **Vidéos par Pablo Pereira Calderon**
@@ -49,7 +48,7 @@ L'intéractivité du dispositif en plein action:
 > **Photo par Alain Roberge, la Presse. https://www.lapresse.ca/gourmand/centre-des-sciences/gastronomie-science-et-plaisir/2024-06-30/banquet/interactivite-au-menu.php**
 
 ### Composantes et techniques ###
- #### Composantes fournis par l'artiste ####
+ #### Composantes fournies par l'artiste ####
  
 -  Les faux desserts assemblés.
     - ![dessert 1](medias/dessert01_Sebastien_Bras.png)
@@ -61,7 +60,7 @@ L'intéractivité du dispositif en plein action:
 
 
      
-- Les plaquettes gravés.
+- Les plaquettes gravées.
   
   - ![plaquette Sebastien](medias/plaquette_Sebastien_Bras.png)
   
@@ -75,30 +74,30 @@ L'intéractivité du dispositif en plein action:
       > Vidéo par Sara Pop
 
 
-  - Les vidéos qui sont diffusés sur le petit écran
+  - Les vidéos qui sont diffusées sur le petit écran
 
   - Le contenu pour la plaquette d'explication
 
 
-#### Composantes fournis par l'espace d'exposition (Centre des Sciences) ####
+#### Composantes fournies par l'espace d'exposition (Centre des Sciences) ####
 
 - La table
-- Lieu oû brancher...
+- Lieu où brancher...
   - Les fils audio (HDMI ou équivalent)
   - Les fils pour l'écran de diffusion (HDMI ou équivalent)
   - L'écran
-  - Les panneaux de lumière bleu et orange qui sont autour de la table
-  - Les hauts-parleurs
-    -  ![hauts-parleurs](medias/speakers_banquet.png)
+  - Les panneaux de lumière bleue et orange qui entourent la table
+  - Les haut-parleurs
+    -  ![haut-parleurs](medias/speakers_banquet.png)
   - Des icônes pour assurer que le dispositif ne soit pas endommagé
      - ![icone](medias/banquet_icone.png)
 
  ## Mes opinions ##
 
- J'ai choisi de documenter *Les Plats Signatures* pour une raison; lorsque je me suis approché du dispositif, j'ai immédiatement été attiré. La composition des cloches en métal avec ceux en verre, les desserts colorés ainsi que les panneaux de lumière étaient agréables à regarder. Par contre, je ne savais pas oû regarder en premier ou quoi faire. La manière dont tout était placé m'a paru déroutant parce que l'écran était du coté opposé de la plaquette d'information et des boutons d'audio, malgré que le vidéo qui jouait était pertinante aux faux-desserts, et non aux cloches en métal. Je noterais aussi que les audios étaient plûtot longs, et je n'arrive pas à imaginer un jeune enfant rester devant un haut-parleur pendant plus de quelques secondes. La salle du banquet était grande alors les sons voyagaient beaucoup à travers la pièce. Cela dit, à cause du volume d'enfant bruyants dans la salle, l'audio provenant du haut-parleur était faible et presque icompréhensible. Je pense que mettre de casques d'écoute à la dispositions des visiteurs aurait été une bonne solution afin d'éviter cet enjeu.
+ J'ai choisi de documenter Les Plats Signatures pour une raison bien précise: dès mon arrivée devant l'installation, j'ai été immédiatement **captivé**. La combinaison des cloches en métal et en verre, les couleurs vives des desserts et les panneaux lumineux offraient une esthétique particulièrement attrayante. Par contre, je ne savais pas où regarder en premier ni quoi faire.  La disposition des éléments m'a semblé déroutante: l'écran se trouvait à **l'opposé** de la plaquette d'information et des boutons audio, alors que la vidéo diffusée concernait les faux desserts et **non** les cloches en métal. Je noterais aussi que les audios étaient plutôt longs, et je n'arrive pas à imaginer un jeune enfant rester devant un haut-parleur pendant plus de quelques secondes. Je mentionne les enfants, car *Le Banquet* est présenté comme une expérience adaptée à tous les âges. De plus, la salle était vaste et remplie de visiteurs, ce qui faisait que les sons se dispersaient beaucoup. À cause du bruit ambiant, l’audio des haut-parleurs était faible et parfois **incompréhensible**. Mettre des casques d'écoute à la disposition des visiteurs aurait été une solution efficace pour améliorer l’expérience sonore.
 
- Au final, j'ai apprécié naviguer ce dispositif et le manipuler. J'apprécis désormais beaucoup plus l'art qui vient avec la nourritre et l'aspect esthétique des plats.
 
+ Malgré ces quelques ajustements nécessaires, j’ai pris plaisir à explorer ce dispositif et à interagir avec ses éléments. J'apprécie désormais davantage l’art culinaire et l’importance de l’esthétique dans la gastronomie.
  
 
    ![crédits](medias/credits_banquet.png)
