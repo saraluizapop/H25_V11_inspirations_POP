@@ -13,15 +13,14 @@ En commençant par la cuisine et en passant par la salle à manger, vous travail
 
 ## **Les Plats Signatures**
 ![ensemble](medias/ensemble_Les_Plats_Signatures.png) 
-[vidéo d'ensmble](https://youtu.be/jK2MxHlzELg)
+[vidéo d'ensemble](https://youtu.be/jK2MxHlzELg)
 
 > **Photo et vidéo par Sara Pop** <br>
 
 *Par Cité des sciences et des l'industrie en partenariat avec Inrae.* <br>
 
 Ce dispositif interactif porte sur l'importance de l'apparence d'un plat. Ces mets peuvent êtres des mets plûtot banales, mais lorsqu'un artiste ajoute sa propre touche personelle créative, le met devient associé à eux. 
-Le dispositif est composé d'une table blanche, ornée de trois desserts sculpté en acrylique qui sont abrité par un couvercle en verre ainsi que trois autres couvercles en métal qui s'ouvrent du coté opposé de la table . Sur la table, il y a également deux boutons qui permettent de commencer l'expérience interactive. Après avoir appuyé ce bouton,
-il est possible d'ensuite appuyer sur les prochains boutons, situés en dessous de chaque faux dessert. Ces boutons enclenchent des audios qui expliquent chaque étape du dessert. Sous ces derniers, il y a une plaquette qui donne crédit au chef-cuisinier qui a composé le dessert, ainsi que les composantes de la friandise. Sous les plats metalliques se retrouvent trois images d'oeuvres réalisés par divers artistes ainsi qu'un plat qui s'est inspiré de ces oeuvres. De plus, il y a un petit écran qui diffuse des vidéos des chefs-cuisiniers qui composent leur oeuvre.
+Le dispositif est composé d'une table noire et blanche, ornée de trois desserts sculpté en acrylique qui sont abrité par une cloche en verre ainsi que trois autres cloches en métal qui s'ouvrent du coté opposé de la table . Sur la table, il y a également deux boutons qui permettent de commencer l'expérience interactive. Ces boutons enclenchent des audios qui expliquent chaque étapes du procéssus des desserts. Sous ces derniers, il y a une plaquette qui donne crédit au chef-cuisinier qui a composé le dessert, ainsi que les composantes de la friandise. Sous les plats metalliques se retrouvent trois images d'oeuvres réalisés par divers artistes ainsi qu'un plat inspiré de ces oeuvres. De plus, il y a un petit écran qui diffuse des vidéos des chefs-cuisiniers qui composent leur oeuvre.
 
 
  ![ensemble](medias/LPS_description.png)
@@ -33,7 +32,7 @@ il est possible d'ensuite appuyer sur les prochains boutons, situés en dessous 
 
 
 
-Voici un comment intéragir avec les dispositif:
+L'intéractivité du dispositif en plein action:
 1. https://youtube.com/shorts/S1N97JyBPeM?feature=share 
 2. https://youtube.com/shorts/qJVBQXrtq_E?feature=share
    > **Vidéos par Pablo Pereira Calderon**
@@ -93,9 +92,19 @@ Voici un comment intéragir avec les dispositif:
     -  ![hauts-parleurs](medias/speakers_banquet.png)
   - Des icônes pour assurer que le dispositif ne soit pas endommagé
      - ![icone](medias/banquet_icone.png)
+
+ ## Mes opinions ##
+
+ J'ai choisi de documenter *Les Plats Signatures* pour une raison; lorsque je me suis approché du dispositif, j'ai immédiatement été attiré. La composition des cloches en métal avec ceux en verre, les desserts colorés ainsi que les panneaux de lumière étaient agréables à regarder. Par contre, je ne savais pas oû regarder en premier ou quoi faire. La manière dont tout était placé m'a paru déroutant parce que l'écran était du coté opposé de la plaquette d'information et des boutons d'audio, malgré que le vidéo qui jouait était pertinante aux faux-desserts, et non aux cloches en métal. Je noterais aussi que les audios étaient plûtot longs, et je n'arrive pas à imaginer un jeune enfant rester devant un haut-parleur pendant plus de quelques secondes. La salle du banquet était grande alors les sons voyagaient beaucoup à travers la pièce. Cela dit, à cause du volume d'enfant bruyants dans la salle, l'audio provenant du haut-parleur était faible et presque icompréhensible. Je pense que mettre de casques d'écoute à la dispositions des visiteurs aurait été une bonne solution afin d'éviter cet enjeu.
+
+ Au final, j'ai apprécié naviguer ce dispositif et le manipuler. J'apprécis désormais beaucoup plus l'art qui vient avec la nourritre et l'aspect esthétique des plats.
+
  
 
-  
+   ![crédits](medias/credits_banquet.png)
+    ![crédits](medias/credits_banquet_2.png)
+
+
 
 
 
