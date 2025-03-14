@@ -9,3 +9,36 @@ https://pootpookies.github.io/Prismatica/#/10_equipe/
 *Photos prisent par Sara Pop , lors de la première visite des projets. (25 Février 2025)*
 
 ![ecriture tableau](medias/interactivite_Prismatica.png)![projection](medias/projection_Prismatica.png)
+
+### Schéma d'installation
+
+![schéma de dessus](medias/vue_haut_plantation_Prismatica.jpg) ![schéma en profondeur](medias/plan_haut_plantation_Prismatica.jpg)
+
+###### Images tirés du [Github de Prismatica](https://pootpookies.github.io/Prismatica/#/10_equipe/)
+
+### Sentiments évoqués
+
+Lorsque j'ai appris le concept et l'idée derrière Prismatica, je me suis immédiatement sentie inspirée.
+Je trouve que le jeu de couleur est intéressant et différent, et ça ne s'arrête pas là - chaque trait et couleur créer son propre son.
+Ça va au-delà de seulement le dessin parce que avec Prismatica, tu utilise 4 sens, au lieu de 2 avec le dessin traditionnel.
+
+### Cours incontournables
+
+D'après moi, les cours d'Audio (1 et 2), Traitement audiovisuel ainsi qu'Objets interactifs sont importants
+pour la conception d'un projet comme Prismatica.
+
+### Technique inconnue
+
+
+
+
+
+## Luminatura
+![Luminatura](medias/luminatra_projection_SLP.png)
+
+*Photo prise par Sara Pop.*
+
+### Installation finale
+
+
+###
