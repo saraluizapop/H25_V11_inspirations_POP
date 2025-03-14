@@ -46,3 +46,9 @@ pour la conception d'un projet comme Prismatica.
 
 ![vue de dessus](medias/plantation_Luminature_dessus.png) ![divers vues](medias/plantation_luminature.jpg)
 ###### Images tirés du [Github de Luminatura](https://miaou-mafia.github.io/projet-luminatura/#/10_equipe/)
+
+### Sentiments évoqués
+
+La première réaction qu j'ai eu quand j'ai vu l'installation a été «wow». Les fleurs qui pendent on capturé mon attention et je suis restée fixé dessus pendant un moment.
+Après avoir touché la plaque, j'ai été encore plus impréssioné. Les projections sont élégantes et colorés et se fondent entrent elles. Les fleurs sont encore plus magnifique lorsqu'on
+touche à la plaque.
