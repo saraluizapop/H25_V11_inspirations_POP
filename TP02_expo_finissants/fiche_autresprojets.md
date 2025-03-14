@@ -10,7 +10,7 @@ https://pootpookies.github.io/Prismatica/#/10_equipe/
 
 ![ecriture tableau](medias/interactivite_Prismatica.png)![projection](medias/projection_Prismatica.png)
 
-### Schéma d'installation
+### Schémas d'installation
 
 ![schéma de dessus](medias/vue_haut_plantation_Prismatica.jpg) ![schéma en profondeur](medias/plan_haut_plantation_Prismatica.jpg)
 
@@ -18,7 +18,7 @@ https://pootpookies.github.io/Prismatica/#/10_equipe/
 
 ### Sentiments évoqués
 
-Lorsque j'ai appris le concept et l'idée derrière Prismatica, je me suis immédiatement sentie inspirée.
+Lorsque j'ai appris le concept et l'idée derrière Prismatica, je me suis immédiatement senti inspirée.
 Je trouve que le jeu de couleur est intéressant et différent, et ça ne s'arrête pas là - chaque trait et couleur créer son propre son.
 Ça va au-delà de seulement le dessin parce que avec Prismatica, tu utilise 4 sens, au lieu de 2 avec le dessin traditionnel.
 
@@ -34,6 +34,7 @@ pour la conception d'un projet comme Prismatica.
 
 
 ## Luminatura
+###### L'équipe de Audrey Dandurand, Camilia Bouatmani, Ihab Mouhajer, Justine Rousseau et Prethiah Rajaratnam.
 ![Luminatura](medias/luminatra_projection_SLP.png)
 
 *Photo prise par Sara Pop.*
@@ -41,4 +42,7 @@ pour la conception d'un projet comme Prismatica.
 ### Installation finale
 
 
-###
+### Schémas d'installation
+
+![vue de dessus](medias/plantation_Luminature_dessus.png) ![divers vues](medias/plantation_luminature.jpg)
+###### Images tirés du [Github de Luminatura](https://miaou-mafia.github.io/projet-luminatura/#/10_equipe/)
