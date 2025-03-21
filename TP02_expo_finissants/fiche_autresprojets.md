@@ -3,9 +3,10 @@
 ## Prismatica
 ###### L'équipe de Jérémy Duverseau, Ikrame Rata et Vincent Delisle
 ![Logo](medias/crayons_Prismatica_SLP.png)
+*Photo prise par Sara Pop.*
 https://pootpookies.github.io/Prismatica/#/10_equipe/
 
-### Installation finale
+### Installation en cours
 *Photos prisent par Sara Pop , lors de la première visite des projets. (25 Février 2025)*
 
 ![ecriture tableau](medias/interactivite_Prismatica.png)![projection](medias/projection_Prismatica.png)
@@ -66,3 +67,34 @@ d'un projet comme Luminatura.
 ### Installation finale
 
 ![Etheria](medias/final_Etheria_SLP.png)
+
+*Photo prise par Sara Pop.*
+
+### Schéma d'installation
+
+![Plantation Etheria](medias/plantation_Etheria.jpg)
+###### Image tiré du [Github de Etheria](https://ethereal-creators.github.io/Etheria/#/30_production/60_plantation/)
+
+
+### Sentiments évoqués
+
+Ce pojet m'a paru imprésionnant! Je ne m'attendais pas à ce qu'un étudiant de 3ème année puisse créer tel projet avec les matières enseignés 
+dans le progrmme TIM. Je me suis bien amusé à jouer au jeu avec mes amis et nous étions tous excité par l'idée de pouvoir créer un projet pareil
+un jour.
+
+### Cours icontournables
+
+D'après moi, Les deux cours de programmation ( Programmation Interactive et Intéractivité Ludique) ainsi qu'Objets Interactifs sont importants pour la conception d'un
+projet comme Etheria.
+
+### Technique inconnue
+
+
+## Internature
+
+###### L'équipe de Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonternna Yi et Kenza El Harrif.
+
+### Installation finale 
+
+![final Internature](medias/final_Internature_SLP.png)
+
