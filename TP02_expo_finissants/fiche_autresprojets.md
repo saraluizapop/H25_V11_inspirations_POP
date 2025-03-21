@@ -52,3 +52,9 @@ pour la conception d'un projet comme Prismatica.
 La première réaction qu j'ai eu quand j'ai vu l'installation a été «wow». Les fleurs qui pendent on capturé mon attention et je suis restée fixé dessus pendant un moment.
 Après avoir touché la plaque, j'ai été encore plus impréssioné. Les projections sont élégantes et colorés et se fondent entrent elles. Les fleurs sont encore plus magnifique lorsqu'on
 touche à la plaque.
+
+### Cours incontournables
+
+D'après moi, le cours de Réalité mixte, Objets interactifs ainsi qu'Installation multimédia sont importants pour la conception 
+d'un projet comme Luminatura.
+
