@@ -5,7 +5,7 @@
 ![Logo](medias/crayons_Prismatica_SLP.png)
 https://pootpookies.github.io/Prismatica/#/10_equipe/
 
-### Installation en cours
+### Installation finale
 *Photos prisent par Sara Pop , lors de la première visite des projets. (25 Février 2025)*
 
 ![ecriture tableau](medias/interactivite_Prismatica.png)![projection](medias/projection_Prismatica.png)
@@ -35,11 +35,11 @@ pour la conception d'un projet comme Prismatica.
 
 ## Luminatura
 ###### L'équipe de Audrey Dandurand, Camilia Bouatmani, Ihab Mouhajer, Justine Rousseau et Prethiah Rajaratnam.
-![Luminatura](medias/luminatra_projection_SLP.png)
+### Installation finale
+![Luminatura](medias/final_Luminatura_SLP.png)
 
 *Photo prise par Sara Pop.*
 
-### Installation finale
 
 
 ### Schémas d'installation
@@ -58,3 +58,11 @@ touche à la plaque.
 D'après moi, le cours de Réalité mixte, Objets interactifs ainsi qu'Installation multimédia sont importants pour la conception 
 d'un projet comme Luminatura.
 
+### Technique inconnue
+
+## Etheria
+###### L'équipe de Joshua Gonzalez-Barrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx et Maik Hamel.
+
+### Installation finale
+
+![Etheria](medias/final_Etheria_SLP.png)
