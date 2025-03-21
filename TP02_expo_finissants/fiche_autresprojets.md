@@ -159,6 +159,6 @@ projet comme Fuga.
 
 ### Installation finale
 
-![final Condu8](medias/final_Cond8_SLP.png)
+![final Condu8](medias/final_Condu8_SLP.png)
 *Photo prise par Sara Pop.*
 
