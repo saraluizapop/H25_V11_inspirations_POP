@@ -182,9 +182,10 @@ projet comme CON DU8.
 ## Arcadia
 ###### L'équipe de Anton Nikulin, Dominic Yale et William Beauvais
 ![Arcadia final](medias/cabinet_studio_Arcadia.jfif)
-*Image tirée du [Github de Arcadia](https://cousi-cousa.github.io/Arcadia/#/).
+*Image tirée du [Github de Arcadia](https://cousi-cousa.github.io/Arcadia/#/).*
 
 ![Arcadia](medias/interactivite_Arcadia.png)
+
 *Photo prise par Sara Pop , lors de la première visite des projets. (25 Février 2025)*
 
 ### Schéma d'installation
