@@ -2,7 +2,7 @@
 
 ## Prismatica
 ###### L'équipe de Jérémy Duverseau, Ikrame Rata et Vincent Delisle
-![Logo](medias/crayons_Prismatia_SLP.png)
+![Logo](medias/crayons_Prismatica_SLP.png)
 https://pootpookies.github.io/Prismatica/#/10_equipe/
 
 ### Installation en cours
