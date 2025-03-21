@@ -97,4 +97,5 @@ projet comme Etheria.
 ### Installation finale 
 
 ![final Internature](medias/final_Internature_SLP.png)
+*Photo prise par Sara Pop*
 
