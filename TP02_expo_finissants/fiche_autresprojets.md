@@ -102,5 +102,28 @@ projet comme Etheria.
 
 ### Schéma d'installation
 
-![plantation Internature](medias/
+![plantation Internature](medias/plantation_serre_3d_Internature.jpg) ![plantation Internature](medias/plantation_studio_Internature.jpg)
+###### Images tirés du [Github de Internature](https://tprangers.github.io/internature/#/30_production/60_plantation/)
 
+### Sentiments évoqués 
+
+J'ai trouvé que le message derrière était intéressant et bien transmis. Nous étions les maîtres de la sphère et chaque mouvement
+qu'on faisait avait un impact sur les projections sur la serre. J'ai trouvé que c'était bien fait et très immersif. C'était jolie et amusant!
+
+### Cours incontournables
+
+D'après moi, le cours d'Audiovisuel, Objets Interactifs ainsi que Modélisation 3D sont de cours importants
+pour la conception d'un projet comme Internature.
+
+
+### Technique inconnue
+
+## Fuga
+
+###### L'équpe de Abdel Ali Djeral, Daniel Dezemma, Matis Labelle, Tristan Khadka et Yavuz-Selim Gucluer.
+
+![fuga](medias/hautsparleurs_Fuga.png)
+
+### Installation finale
+
+![Final Fuga](medias/final_Fuga_SLP.png)
