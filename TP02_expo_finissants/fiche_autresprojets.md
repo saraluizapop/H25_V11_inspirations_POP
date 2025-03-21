@@ -93,9 +93,14 @@ projet comme Etheria.
 ## Internature
 
 ###### L'équipe de Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonternna Yi et Kenza El Harrif.
+![boule](medias/boule_Internature.png)
 
 ### Installation finale 
 
 ![final Internature](medias/final_Internature_SLP.png)
 *Photo prise par Sara Pop*
+
+### Schéma d'installation
+
+![plantation Internature](medias/
 
