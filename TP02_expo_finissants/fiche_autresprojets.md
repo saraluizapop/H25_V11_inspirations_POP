@@ -162,3 +162,37 @@ projet comme Fuga.
 ![final Condu8](medias/final_Condu8_SLP.png)
 *Photo prise par Sara Pop.*
 
+### Schémas d'installation
+
+![plantation condu8](medias/plantation_Condu8.png)
+###### Images tirés du [Github de Condu8](https://gearshift-games.github.io/Web-C0N-DU8/#/30_production/60_plantation/)
+
+### Sentiments évoqués
+Le projet est amusant puisque qu'il faut vraiment utiliser son corps en entier pour intéragir avec, contrairement aux autres projets où
+nous utlisions seulement nos mains. Je pense que c'est un concept original et qui peut plaire à tout le monde!
+
+
+### Cours incontournables
+D'après moi, Les deux cours de programmation ( Programmation Interactive et Intéractivité Ludique) ainsi que Objets intéractifs sont importants pour la conception d'un
+projet comme CON DU8.
+
+### Technique inconnue
+
+
+## Arcadia
+###### L'équipe de Anton Nikulin, Dominic Yale et William Beauvais
+
+![Arcadia](medias/interactivite_Arcadia.png)
+*Photo prise par Sara Pop , lors de la première visite des projets. (25 Février 2025)*
+
+### Schéma d'installation
+
+Aucune Plantation n'a été mise sur le [Github de Arcadia](https://cousi-cousa.github.io/Arcadia/#/30_production/60_plantation/).
+Il est spécifié que le projet se retrouve près de l'entrée du grand studio.
+
+### Sentiments évoqués
+
+J'ai eu le chance de voir ce projet une seule foit, lorsqu'il était encore ne dévéloppement. Il ne m'a pas nécéssairement attiré, puisqu'il se présente en étant seulement un jeu d'arcade. Par contre, j'ai quand
+même été impréssionée par le style artistique ainsi que l'installation finale.
+
+
