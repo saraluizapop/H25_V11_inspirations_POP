@@ -1,6 +1,6 @@
 # Les projets des finissants en TIM
 
-## Prismatica
+## PRISMATICA
 ###### L'équipe de Jérémy Duverseau, Ikrame Rata et Vincent Delisle
 ![Logo](medias/crayons_Prismatica_SLP.png)
 *Photo prise par Sara Pop.*
@@ -34,7 +34,7 @@ pour la conception d'un projet comme Prismatica.
 
 
 
-## Luminatura
+## LUMINATURA
 ###### L'équipe de Audrey Dandurand, Camilia Bouatmani, Ihab Mouhajer, Justine Rousseau et Prethiah Rajaratnam.
 ### Installation finale
 ![Luminatura](medias/final_Luminatura_SLP.png)
@@ -52,7 +52,7 @@ pour la conception d'un projet comme Prismatica.
 
 La première réaction qu j'ai eu quand j'ai vu l'installation a été «wow». Les fleurs qui pendent on capturé mon attention et je suis restée fixé dessus pendant un moment.
 Après avoir touché la plaque, j'ai été encore plus impréssioné. Les projections sont élégantes et colorés et se fondent entrent elles. Les fleurs sont encore plus magnifique lorsqu'on
-touche à la plaque.
+touche à la plaque. J'ai trouvé ça intéréssant la façon dont la plaque utlisais l'électricité généré par notre corps afin d'intéragir avec les projections.
 
 ### Cours incontournables
 
@@ -61,7 +61,7 @@ d'un projet comme Luminatura.
 
 ### Technique inconnue
 
-## Etheria
+## ETHERIA
 ###### L'équipe de Joshua Gonzalez-Barrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx et Maik Hamel.
 
 ### Installation finale
@@ -90,17 +90,17 @@ projet comme Etheria.
 ### Technique inconnue
 
 
-## Internature
+## INTERNATURE
 
 ###### L'équipe de Khaly Tia Sing, Isaac Fafard, Delphine Grenier, Sitmonternna Yi et Kenza El Harrif.
 ![boule](medias/boule_Internature.png)
-
+*Photo prise par Sara Pop.*
 ### Installation finale 
 
 ![final Internature](medias/final_Internature_SLP.png)
 *Photo prise par Sara Pop*
 
-### Schéma d'installation
+### Schémas d'installation
 
 ![plantation Internature](medias/plantation_serre_3d_Internature.jpg) ![plantation Internature](medias/plantation_studio_Internature.jpg)
 ###### Images tirés du [Github de Internature](https://tprangers.github.io/internature/#/30_production/60_plantation/)
@@ -118,12 +118,47 @@ pour la conception d'un projet comme Internature.
 
 ### Technique inconnue
 
-## Fuga
+## FUGA
 
 ###### L'équpe de Abdel Ali Djeral, Daniel Dezemma, Matis Labelle, Tristan Khadka et Yavuz-Selim Gucluer.
 
 ![fuga](medias/hautsparleurs_Fuga.png)
+*Photo prise par Sara Pop.*
 
 ### Installation finale
 
 ![Final Fuga](medias/final_Fuga_SLP.png)
+*Photo prise par Sara Pop.*
+
+
+### Schémas d'installation
+
+![face fuga](medias/fuga-face_plantation.png) ![coté Fuga](medias/plantation-side_fuga.png)
+###### Images tirés du [Github de Fuga](https://escapism-fuga.github.io/Fuga/#/30_production/60_plantation/)
+
+### Sentiments évoqués
+
+J'ai trouvé que la manière dont le projet a été décoré et placé etait bien dans le thème et c'était jolie.
+Je me suis amusé a créer différente combinaisons avec les synthétiseurs. C'est vraiment un beau projet, mais j'aurais aimé qu'il y 
+ait un petit quelque chose de plus comme par exemple, un jeu intégré ou des saisons. Je dis ça parce que je suis passée a travers les combinaison
+en moins de 1 minute et ensuite j'ai continué mon chemain. J'aurai aimé que l'expérience dure un peu plus.
+
+### Cours incontournables
+D'après moi, Les deux cours de programmation ( Programmation Interactive et Intéractivité Ludique) ainsi que Modélisation 3D sont importants pour la conception d'un
+projet comme Fuga.
+
+
+### Technique inconnue
+
+
+## CON DU8
+
+###### L'équipe de Alexandre Gervais, Ian Corbin, Jérémy Roy-Coté, Keven Malric et Samuel Desmeules-Voyer.
+![ecran](medias/ecran_Condu8_SLP.png)
+*Photo prise par Sara Pop.*
+
+### Installation finale
+
+![final Condu8](medias/final_Cond8_SLP.png)
+*Photo prise par Sara Pop.*
+
