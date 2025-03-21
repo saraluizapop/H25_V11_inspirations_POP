@@ -181,6 +181,8 @@ projet comme CON DU8.
 
 ## Arcadia
 ###### L'équipe de Anton Nikulin, Dominic Yale et William Beauvais
+![Arcadia final](medias/cabinet_studio_Arcadia.jfif)
+*Image tirée du [Github de Arcadia](https://cousi-cousa.github.io/Arcadia/#/).
 
 ![Arcadia](medias/interactivite_Arcadia.png)
 *Photo prise par Sara Pop , lors de la première visite des projets. (25 Février 2025)*
@@ -192,7 +194,13 @@ Il est spécifié que le projet se retrouve près de l'entrée du grand studio.
 
 ### Sentiments évoqués
 
-J'ai eu le chance de voir ce projet une seule foit, lorsqu'il était encore ne dévéloppement. Il ne m'a pas nécéssairement attiré, puisqu'il se présente en étant seulement un jeu d'arcade. Par contre, j'ai quand
+J'ai eu le chance de voir ce projet une seule foit, lorsqu'il était encore ne dévéloppement. Il ne m'a pas nécéssairement attiré, puisqu'il se présente en étant seulement un jeu d'arcade et personellement, ce n'est pas pour moi. Par contre, j'ai quand
 même été impréssionée par le style artistique ainsi que l'installation finale.
 
 
+### Cours incontournables
+
+D'après moi, Les deux cours de programmation ( Programmation Interactive et Intéractivité Ludique) ainsi que Installation multimédia sont importants pour la conception d'un
+projet comme Arcadia.
+
+### Technique inconnue
