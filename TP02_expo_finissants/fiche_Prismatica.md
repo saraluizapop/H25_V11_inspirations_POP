@@ -15,3 +15,18 @@ sur plusieurs mois à l'aide de divers notions apprises durant leur parcours.
 
 *tiré du [Github de Prismatica](https://pootpookies.github.io/Prismatica/#/)*
 
+
+
+![écran](medias/crayons_Prismatica_SLP.png)
+
+
+## Les composantes
+
+
+Afin de créer une expérience multimédia, l'équipe de Prismatica à dû utiliser plusieurs composantes.
+
+
+**Une caméra qui suis les mouvements de l'utilisateur**
+
+
+
