@@ -59,7 +59,7 @@ touche à la plaque. J'ai trouvé ça intéréssant la façon dont la plaque utl
 D'après moi, le cours de Réalité mixte, Objets interactifs ainsi qu'Installation multimédia sont importants pour la conception 
 d'un projet comme Luminatura.
 
-### Technique inconnue
+
 
 ## ETHERIA
 ###### L'équipe de Joshua Gonzalez-Barrera, Victor Gileau, Michael Un Dupré, Pierre-Luc Proulx et Maik Hamel.
@@ -87,7 +87,7 @@ un jour.
 D'après moi, Les deux cours de programmation ( Programmation Interactive et Intéractivité Ludique) ainsi qu'Objets Interactifs sont importants pour la conception d'un
 projet comme Etheria.
 
-### Technique inconnue
+
 
 
 ## INTERNATURE
@@ -116,7 +116,7 @@ D'après moi, le cours d'Audiovisuel, Objets Interactifs ainsi que Modélisation
 pour la conception d'un projet comme Internature.
 
 
-### Technique inconnue
+
 
 ## FUGA
 
@@ -148,7 +148,7 @@ D'après moi, Les deux cours de programmation ( Programmation Interactive et Int
 projet comme Fuga.
 
 
-### Technique inconnue
+
 
 
 ## CON DU8
@@ -176,7 +176,6 @@ nous utlisions seulement nos mains. Je pense que c'est un concept original et qu
 D'après moi, Les deux cours de programmation ( Programmation Interactive et Intéractivité Ludique) ainsi que Objets intéractifs sont importants pour la conception d'un
 projet comme CON DU8.
 
-### Technique inconnue
 
 
 ## Arcadia
@@ -204,4 +203,3 @@ même été impréssionée par le style artistique ainsi que l'installation fina
 D'après moi, Les deux cours de programmation ( Programmation Interactive et Intéractivité Ludique) ainsi que Installation multimédia sont importants pour la conception d'un
 projet comme Arcadia.
 
-### Technique inconnue
