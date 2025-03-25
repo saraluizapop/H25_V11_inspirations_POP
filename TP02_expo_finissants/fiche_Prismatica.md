@@ -13,12 +13,16 @@ sur plusieurs mois à l'aide de divers notions apprises durant leur parcours.
 ###### Notre installation interactive, Prismatica, repose sur la chromesthésie, une forme de synesthésie où les sons sont perçus en fonction des couleurs. Grâce à une caméra connectée à TouchDesigner, nous analysons en temps réel un tableau blanc sur lequel l’utilisateur dessine avec des marqueurs colorés. Chaque couleur utilisée génère une mélodie spécifique, basée sur le cercle chromatique de Newton, transformant l’acte de dessiner en une expérience multisensorielle où le son et l’image fusionnent.
 
 
-*tiré du [Github de Prismatica](https://pootpookies.github.io/Prismatica/#/)*
+*Tiré du [Github de Prismatica](https://pootpookies.github.io/Prismatica/#/)*
 
 
 
 ![écran](medias/crayons_Prismatica_SLP.png)
 ![cartel](medias/cartel_prismatica_SLP.png)
+
+## Mise en espace
+
+
 
 
 ## Les composantes
@@ -54,9 +58,26 @@ l'équipe à opté pour un tableau blanc effaçable. C'est rapide et efficace!
 
 ![tableau](medias/interactivite_Prismatica.png)
 
-### Un écran
+### Un écran et des crayons
 
-Pour que la projection soit claire, les traits de crayons sont visibles sur un écran positionné devant l'utilisateur.
+Pour que la projection soit claire, les traits de crayons sont visibles sur un écran positionné devant l'utilisateur. Ensuite, il faut évidement 
+des crayons pour pouvoir dessiner sur le tableau blanc. Ils sont positionnés à la disposition de l'utilisateur, devant soi.
 
-![écran](medias/camera_Prismatica_SLP.png)
+![écran](medias/crayons_Prismatica_SLP.png)
+
+
+### Des sacs de sable
+
+Afin de tenir la structure qui tient le tableau stable, l'équipe a utilisé des sacs de sable pour bien le stabiliser.
+
+![sac de sable](medias/sac_sable_Prismatica_SLP.png)
+
+### Un diffuseur
+
+L'équipe à ajouté un diffuseur pour rendre l'expérience véritablement immersive, en apportant l'utilisateur dans sa bulle
+grâce au sens de l'odorat, le toucher et la vue.
+
+![diffuseur](medias/diffuseur_Prismatica_SLP.png)
+
+
 
