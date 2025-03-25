@@ -18,6 +18,7 @@ sur plusieurs mois à l'aide de divers notions apprises durant leur parcours.
 
 
 ![écran](medias/crayons_Prismatica_SLP.png)
+![cartel](medias/cartel_prismatica_SLP.png)
 
 
 ## Les composantes
@@ -26,7 +27,10 @@ sur plusieurs mois à l'aide de divers notions apprises durant leur parcours.
 Afin de créer une expérience multimédia, l'équipe de Prismatica à dû utiliser plusieurs composantes.
 
 
-**Une caméra qui suis les mouvements de l'utilisateur**
+**Une caméra**
+Elle est placée au dessus du dispositif, afin qu'elle puisse suivre les mouvements de l'utilisateur.
+
+![caméra](medias/camera_Prismatica_SLP.png)
 
 
 
