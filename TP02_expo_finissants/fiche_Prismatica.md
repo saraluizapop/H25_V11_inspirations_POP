@@ -1,13 +1,14 @@
 # Prismatica
 
 ![Logo](medias/prismatica_logo)
-*Image tirée du [Github de Prismatica](https://pootpookies.github.io/Prismatica/#/)*
+*Image tirée du [Github de Prismatica](https://pootpookies.github.io/Prismatica/#/)*.
+
+Par Ikrame Rata, Jérémy Duverseau et Vincent Delisle.
 
 
 
 
-Prismatica est un dispositif créé par une équipe d'étudiants dans le programme de technique d'intégration art et multimédia. Le porjet a été produit
-sur plusieurs mois à l'aide de divers notions apprises durant leur parcours.
+Prismatica est un dispositif créé par une équipe d'étudiants dans le programme de technique d'intégration art et multimédia pour l'exposition intitulée *Résonance*. Le projet a été produit sur plusieurs mois à l'aide de divers notions apprises durant leur parcours. J'ai eue la chance de le visiter le 25 février 2025, lorsqu'il était encore en conception et le 18 mars 2025, lors de sa présentation finale.
 
 
 ###### Notre installation interactive, Prismatica, repose sur la chromesthésie, une forme de synesthésie où les sons sont perçus en fonction des couleurs. Grâce à une caméra connectée à TouchDesigner, nous analysons en temps réel un tableau blanc sur lequel l’utilisateur dessine avec des marqueurs colorés. Chaque couleur utilisée génère une mélodie spécifique, basée sur le cercle chromatique de Newton, transformant l’acte de dessiner en une expérience multisensorielle où le son et l’image fusionnent.
@@ -22,7 +23,11 @@ sur plusieurs mois à l'aide de divers notions apprises durant leur parcours.
 
 ## Mise en espace
 
+Le dispositif est situé dans le petit studio à Montmorency.
 
+![espace](medias/nouvelle_plantation_Prismatica.jpg)
+![écran](medias/plan_haut_plantation_Prismatica.jpg)
+![écran](medias/vue_haut_plantation_Prismatica.jpg)
 
 
 ## Les composantes
