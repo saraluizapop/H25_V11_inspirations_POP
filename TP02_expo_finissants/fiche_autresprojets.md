@@ -19,9 +19,9 @@ https://pootpookies.github.io/Prismatica/#/10_equipe/
 
 ### Sentiments évoqués
 
-Lorsque j'ai appris le concept et l'idée derrière Prismatica, je me suis immédiatement senti inspirée.
-Je trouve que le jeu de couleur est intéressant et différent, et ça ne s'arrête pas là - chaque trait et couleur créer son propre son.
-Ça va au-delà de seulement le dessin parce que avec Prismatica, tu utilise 4 sens, au lieu de 2 avec le dessin traditionnel.
+Lorsque j'ai appris le concept et l'idée derrière Prismatica, je me suis immédiatement sentie inspirée.
+Je trouve que le jeu de couleurs est intéressant et différent, et ça ne s'arrête pas là - chaque trait et couleur crée son propre son.
+Ça va au-delà du simple dessin, car avec Prismatica, tu utilises 4 sens au lieu de 2 avec le dessin traditionnel.
 
 ### Cours incontournables
 
@@ -30,7 +30,30 @@ pour la conception d'un projet comme Prismatica.
 
 ### Technique inconnue
 
+Afin que les traits de dessin soient reconnus et projetés sur l'écran, l'équipe a utilisé une caméra connectée
+à un logiciel nommé TouchDesigner.
 
+***<<TouchDesigner est un langage de programmation visuelle basé sur des nœuds pour le contenu multimédia interactif en temps réel. Développé par l'entreprise torontoise « Derivative », il est fréquemment utilisé par les artistes, les programmeurs, les codeurs créatifs, les concepteurs de logiciels et les performeurs pour créer des performances, des installations et des œuvres multimédias fixes.>>***
+###### *https://en.wikipedia.org/wiki/TouchDesigner*
+
+Voici comment l'équipe à décrit le processus sur leur [Github ](https://pootpookies.github.io/Prismatica/#/30_production/50_technologies/)
+
+***<<Algorithmes de détection :***
+***Ces algorithmes permettent de détecter les dessins en temps réel et de générer des événements en fonction des formes et couleurs dessinées sur le tableau blanc.***
+
+***Détection de forme et de couleur :
+TouchDesigner analyse les images captées par la caméra pour reconnaître les formes et couleurs utilisées. Ces informations sont ensuite traduites en effets visuels et déclenchements sonores.***
+
+***Médias génératifs :
+TouchDesigner permet de générer du contenu visuel en temps réel, créant une expérience interactive et immersive unique pour chaque utilisateur.***
+
+***Vidéo interactive :
+Les dessins sont projetés sous forme de compositions visuelles dynamiques, et l’environnement réagit en fonction de l’évolution du dessin.***
+
+***Ambiances sonores préenregistrées :
+Plutôt que d’être générés en temps réel, les sons sont sélectionnés et déclenchés selon les dessins détectés par TouchDesigner, assurant une cohérence entre l’image et l’audio.>>***
+
+###### *Tiré du [Github de Prismatica](https://pootpookies.github.io/Prismatica/#/30_production/50_technologies/)*
 
 
 
@@ -50,9 +73,8 @@ pour la conception d'un projet comme Prismatica.
 
 ### Sentiments évoqués
 
-La première réaction qu j'ai eu quand j'ai vu l'installation a été «wow». Les fleurs qui pendent on capturé mon attention et je suis restée fixé dessus pendant un moment.
-Après avoir touché la plaque, j'ai été encore plus impréssioné. Les projections sont élégantes et colorés et se fondent entrent elles. Les fleurs sont encore plus magnifique lorsqu'on
-touche à la plaque. J'ai trouvé ça intéréssant la façon dont la plaque utlisais l'électricité généré par notre corps afin d'intéragir avec les projections.
+Ma première réaction en voyant l'installation a été « wow ». Les fleurs suspendues ont capté mon attention et je suis restée fixée dessus pendant un moment.
+Après avoir touché la plaque, j'ai été encore plus impressionnée. Les projections sont élégantes et colorées et se fondent entre elles. Les fleurs deviennent encore plus magnifiques lorsqu'on touche la plaque. J'ai trouvé intéressant la façon dont la plaque utilisait l'électricité générée par notre corps afin d'interagir avec les projections.
 
 ### Cours incontournables
 
@@ -78,8 +100,8 @@ d'un projet comme Luminatura.
 
 ### Sentiments évoqués
 
-Ce pojet m'a paru imprésionnant! Je ne m'attendais pas à ce qu'un étudiant de 3ème année puisse créer tel projet avec les matières enseignés 
-dans le progrmme TIM. Je me suis bien amusé à jouer au jeu avec mes amis et nous étions tous excité par l'idée de pouvoir créer un projet pareil
+Ce projet m'a paru impressionnant ! Je ne m'attendais pas à ce qu'un étudiant de 3e année puisse créer un tel projet avec les matières enseignées
+dans le programme TIM. Je me suis bien amusée à jouer au jeu avec mes amis et nous étions tous excités par l'idée de pouvoir créer un projet semblable
 un jour.
 
 ### Cours icontournables
@@ -108,7 +130,7 @@ projet comme Etheria.
 ### Sentiments évoqués 
 
 J'ai trouvé que le message derrière était intéressant et bien transmis. Nous étions les maîtres de la sphère et chaque mouvement
-qu'on faisait avait un impact sur les projections sur la serre. J'ai trouvé que c'était bien fait et très immersif. C'était jolie et amusant!
+qu'on faisait avait un impact sur les projections sur la serre. J'ai trouvé que c'était bien fait et très immersif. C'était joli et amusant !
 
 ### Cours incontournables
 
@@ -168,13 +190,13 @@ projet comme Fuga.
 ###### Images tirés du [Github de Condu8](https://gearshift-games.github.io/Web-C0N-DU8/#/30_production/60_plantation/)
 
 ### Sentiments évoqués
+
 Le projet est amusant puisque qu'il faut vraiment utiliser son corps en entier pour intéragir avec, contrairement aux autres projets où
 nous utlisions seulement nos mains. Je pense que c'est un concept original et qui peut plaire à tout le monde!
 
-
 ### Cours incontournables
-D'après moi, Les deux cours de programmation ( Programmation Interactive et Intéractivité Ludique) ainsi que Objets intéractifs sont importants pour la conception d'un
-projet comme CON DU8.
+
+D'après moi, Les deux cours de programmation ( Programmation Interactive et Intéractivité Ludique) ainsi que Objets intéractifs sont importants pour la conception d'un projet comme CON DU8.
 
 
 
@@ -194,9 +216,8 @@ Il est spécifié que le projet se retrouve près de l'entrée du grand studio.
 
 ### Sentiments évoqués
 
-J'ai eu le chance de voir ce projet une seule foit, lorsqu'il était encore ne dévéloppement. Il ne m'a pas nécéssairement attiré, puisqu'il se présente en étant seulement un jeu d'arcade et personellement, ce n'est pas pour moi. Par contre, j'ai quand
-même été impréssionée par le style artistique ainsi que l'installation finale.
 
+J'ai eu le chance de voir ce projet une seule foit, lorsqu'il était encore ne dévéloppement. Il ne m'a pas nécéssairement attiré, puisqu'il se présente en étant seulement un jeu d'arcade et personellement, ce n'est pas pour moi. Par contre, j'ai quand même été impréssionée par le style artistique ainsi que l'installation finale.
 
 ### Cours incontournables
 
