@@ -18,4 +18,5 @@ pour qu'elle soit immersive.
 
 ### Son processus
 
-Jade nous a partagé tout le processus derrière une des plus grande oeuvres de Rafael : **Sphere packing: Bach**
+Jade nous a partagé tout le processus derrière une des plus grande oeuvres de Rafael : **Sphere packing: Bach.**
+![sphère](medias/
