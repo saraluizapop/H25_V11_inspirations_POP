@@ -24,16 +24,23 @@ Jade nous a partagé tout le processus derrière une des plus grande oeuvres de 
 
 Voici les étapes :
 
-1. Concept                           <----------|
-2. Planification                                |
-3. Production                                   |   Rafael Lozano-Hemmer
-4. Création de l'oeuvre              <----------|
-5. Opportunités d'exposition         <-----------|
-6. Entreposage jusqu'a l'exposition              |
-7. Transport                                     |  Jade Séguéla
-8. Installation                                  |
-9. Exposition                                    |
-10. Désinstallation                   <----------|
+1. Concept                                        
+2. Planification                                             
+3. Production                                                
+4. Création de l'oeuvre
+
+*Par Rafael Lozano-Hemmer*
+
+                         
+6. Opportunités d'exposition         
+7. Entreposage jusqu'a l'exposition              
+8. Transport                                    
+9. Installation                                  
+10. Exposition                                    
+11. Désinstallation                  
+
+*Par Jade Séguéla*
+
 
 C'est un long processus qui est compliqué selon Jade, puisque les œuvres sont grandes, avec beaucoup de composantes. Les démonter,
 les faire voyager, puis devoir les assembler de nouveau est difficile et demandant. Chaque composante a sa propre boîte et doit être entreposée d'une manière spécifique afin de rester intacte. La sphère de Bach est l'œuvre la plus compliquée dont elle s'est occupée, notamment à cause de ses nombreuses composantes.
