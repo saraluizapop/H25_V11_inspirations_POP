@@ -29,14 +29,15 @@ L'entrée de la pièce est accompagné d'un immense panneau qui présente Anri S
 
 ### La pièce
 Dans cette expérience immersive, les deux écrans projettent l'image de la main gauche de deux pianistes qui jouent une composition de 20 minutes. Au début, les deux jouent le même verset de la piècre en même temps mais au fil du temps, ils finissent par jouer deux parties différentes. Il finissent par se synchroniser a nouveau à la fin de la pièce. La pièce qu'ils jouent s'intitule "Concerto pour la main gauche", et elle a été composé pour un pianiste qui a perdu son bras droit pendant la première guerre mondiale. Le son est particulier puisqu'il y a une multitude de hauts-parleurs cachés dans la salle. La musique envloppe complétement donc les gens qui se situent dans la salle. 
-[![Watch the video](https://img.youtube.com/vi/1mVS_ZgZLfc/0.jpg)](https://www.youtube.com/watch?v=1mVS_ZgZLfc)
+
 
 > Comme l’explique le commissaire,« Les mains droites sont également visibles dans certains plans, reposant sur les cuisses des pianistes. Alors que le tout dernier passage joué par les pianistes touche à sa fin, on voit les mains tomber, molles, apparemment sans vie ; ce ne sont pas les mains gauches, mais bien les droites, évoquant non seulement celles de Wittgenstein, mais aussi celles d’innombrables soldats, tombés au combat. »
 Ravel Ravel Interval donne au public montréalais bien plus à méditer que la musique sublime à laquelle il assiste. L’installation parle de liberté artistique — un concept rarement associé à la musique classique — ainsi que de la capacité des artistes à surmonter des circonstances bouleversantes pour poursuivre leur art. Et, peut-être de manière encore plus pressante, elle nous pousse à réfléchir aux horreurs de la guerre à l’échelle mondiale. - Manu Sharma, [Stir World.](https://www.stirworld.com/see-features-ravel-ravel-interval-treats-audiences-to-a-layered-musical-experience)
 
 Donc la pièce expose les horreurs de la guerre et de les conséquences sur la vie par la suite, spécifiquements pour les artistes.
 
-## Composantes
+## Composantes et mise en exposition
+### Composantes
 ![composantes](medias/cartel_ravel_SLP.png)
 
  *Photo par Sara Pop*
@@ -56,6 +57,27 @@ Ce projecteur est situé à l'entrée de la salle.
 ![hautsparleurs](medias/3_hautparleurs_Ravel_SLP.png)
 
 Il y avait des hauts-parleurs alignés de cette facon au dessus de chaque écran et sur le long de la pièce.
+
+### Mise en exposition
+
+**Fournis par l'artiste**
+- L'enregistrement des mains et de la composition
+- Les écrans transparents
+- Les cartels de descriptio
+
+**Fournis pas le Musée des beaux-arts de Montréal**
+- Les projecteurs
+- Les hauts-parleurs
+- Une pièce noir et insonorisé
+
+
+## Expérience vécue
+
+[![Watch the video](https://img.youtube.com/vi/1mVS_ZgZLfc/0.jpg)](https://www.youtube.com/watch?v=1mVS_ZgZLfc)
+
+
+En écoutant la pièce, je me suis réelement fait transporter dans un autre monde. J'était concentrée sur les écrans lumineux et la musique était enveloppante.
+J'ai trouvé ça jolie quand on pouvait voir les deux mains sur un seul écran, chacune qui jouait une partie différente. Je trouve aussi que l'histoire derrière est touchante. Par contre, j'ai trouvé la composition vraiment longue. J’ai un peu honte de l’admettre, mais l’atmosphère m’a rendue somnolente à un moment donné. Bref, c'est une très belle exposition et je la reccomenderais.
 
 
 
