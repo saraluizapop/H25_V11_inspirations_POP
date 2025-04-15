@@ -79,6 +79,8 @@ Il y avait des hauts-parleurs alignés de cette facon au dessus de chaque écran
 En écoutant la pièce, je me suis réelement fait transporter dans un autre monde. J'était concentrée sur les écrans lumineux et la musique était enveloppante.
 J'ai trouvé ça jolie quand on pouvait voir les deux mains sur un seul écran, chacune qui jouait une partie différente. Je trouve aussi que l'histoire derrière est touchante. Par contre, j'ai trouvé la composition vraiment longue. J’ai un peu honte de l’admettre, mais l’atmosphère m’a rendue somnolente à un moment donné. Bref, c'est une très belle exposition et je la reccomenderais.
 
+![main](medias/main_Ravel_SLP.png)
+
 
 
 
