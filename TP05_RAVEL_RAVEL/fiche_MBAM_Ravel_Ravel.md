@@ -27,7 +27,7 @@ L'entrée de la pièce est accompagné d'un immense panneau qui présente Anri S
 *Photo par Sara Pop*
  Cartel de remerciements.
 
-### La pièce
+### La pièce musicale
 Dans cette expérience immersive, les deux écrans projettent l'image de la main gauche de deux pianistes qui jouent une composition de 20 minutes. Au début, les deux jouent le même verset de la piècre en même temps mais au fil du temps, ils finissent par jouer deux parties différentes. Il finissent par se synchroniser a nouveau à la fin de la pièce. La pièce qu'ils jouent s'intitule "Concerto pour la main gauche", et elle a été composé pour un pianiste qui a perdu son bras droit pendant la première guerre mondiale. Le son est particulier puisqu'il y a une multitude de hauts-parleurs cachés dans la salle. La musique envloppe complétement donc les gens qui se situent dans la salle. 
 
 
