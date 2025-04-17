@@ -38,6 +38,7 @@ Donc, la pièce expose les horreurs de la guerre et ses conséquences sur la vie
 ## Composantes et mise en exposition
 ### Composantes
 ![composantes](medias/cartel_ravel_SLP.png)
+![croquis](medias/croquis.png)
 
 *Photo par Sara Pop*
  
