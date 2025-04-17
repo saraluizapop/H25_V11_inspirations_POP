@@ -20,6 +20,7 @@ C'est une projection d’environ 20 minutes qui montre une multitude d'animaux d
 [![Watch the video](https://img.youtube.com/vi/outhqA8plcI/0.jpg)](https://youtu.be/outhqA8plcI)
 
 ## Composantes et mise en exposition
+![croquis](medias/croquis.png)
 ### Projecteurs
 Premièrement, il y avait évidemment des projecteurs. Il y en avait cinq : un pour chaque mur, ainsi qu'un qui était pointé vers le sol.
 ![Projecteurs](medias/projecteur_NV_SLP.png)
@@ -44,7 +45,20 @@ Il y avait une douzaine de chaises berçantes, des tambourins et deux bancs pour
 ![rond](medias/globe_NV_SLP.png)
 
 Au plafond, au centre de la pièce, il y a ce rond lumineux. Le motif dessus ressemble à un motif de planète. La couleur de ce rond change en fonction des nuances de la projection. Autour de ce cercle, il y a de petits bouts de miroirs qui pendent du plafond. La lumière se reflète sur les miroirs et crée un effet magique.
+### Mise en exposition
+
+**Fournis par les artistes**
+- Le montage des vidéos
+- Le cercle et les bouts de mirroir
+- Les chaises, tambourins et bancs
+
+**Fournis par Oasis Immersion**
+- Une pièce blanche insonorisé
+- 5 projecteurs
+- 9 hauts-parleurs
 
 ## Conclusion
 
 Cette exposition a été une des plus belles que j'ai visitées cette année. C'était un endroit très calme et serein. Ça montre aussi que même si une exposition a moins de composantes, il est quand même possible de créer quelque chose d'incroyable. Les images étaient magnifiques et attendrissantes. Le but de cette installation était de rendre le monde conscient des enjeux que la faune subit à cause du changement climatique et des gens ignorants qui ne la respectent pas. Je pense que le message est bien passé, c’est certain.
+
+*Toutes les photos et vidéos par Sara Pop*
